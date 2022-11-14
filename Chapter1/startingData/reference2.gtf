@@ -1,0 +1,2 @@
+cat > metadata.csv
+ls
